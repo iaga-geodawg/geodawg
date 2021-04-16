@@ -6,4 +6,13 @@ collections: [sections]
 email: iaga.geodawg@gmail.com
 baseurl: geodawg
 
+sidebar:
+  nav:sidebar-nav
+  
+sidebar-nav:
+  - title: "About us"
+  url: /
+  - title: "Seminar Series"
+  url: /
+
 theme: jekyll-theme-cayman
