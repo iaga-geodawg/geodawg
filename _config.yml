@@ -1,9 +1,9 @@
 title: Geospace Data Assimilation Working Group (GeoDAWG)
 
+theme: jekyll-theme-minimal
+
 email: iaga.geodawg@gmail.com
 baseurl: geodawg/
 url: ""
 
 # The following settings are NECESSARY for the Prologue theme to run:
-
-theme: jekyll-theme-minimal
