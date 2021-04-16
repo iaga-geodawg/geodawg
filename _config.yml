@@ -2,7 +2,7 @@
 title: Geospace Data Assimilation Working Group (GeoDAWG)
 
 email: iaga.geodawg@gmail.com
-baseurl: geodawg/
+baseurl: "/geodawg"
 
 #sidebar:
 #  nav:sidebar-nav
