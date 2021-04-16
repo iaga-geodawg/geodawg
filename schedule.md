@@ -14,7 +14,9 @@ Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated be
 
 | Date |Speaker | Title/Topic | Institution |
 |:-----|:-------|:------|:------------|
-| Jan 6, 2021 | *Winter Break* | **No Seminar**  | |
+| TBD, 2021 | *Winter Break* | This is a seminar |
+
+
 #| Jan 11, 2021 | John Lyon | [MHD Simulations at the Meso-scale][31] | Dartmouth |
 
 #[38]:https://msolss.github.io/MagSeminars/2021/03/15/Faraday-Cup.html
