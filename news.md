@@ -1,5 +1,5 @@
 ---
-title: testing
+title: News
 layout: "page"
 icon: fa-calendar-alt
 order: 2
