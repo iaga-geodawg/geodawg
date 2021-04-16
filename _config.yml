@@ -6,6 +6,10 @@ collections: [sections]
 email: iaga.geodawg@gmail.com
 baseurl: geodawg/
 
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
 
 #sidebar:
 #  nav:sidebar-nav
