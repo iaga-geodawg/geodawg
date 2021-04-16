@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## GeoDAWG Charter Pages
 
 
 Motivation and Background
