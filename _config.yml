@@ -5,7 +5,5 @@ baseurl: "/geodawg"
 url: ""
 
 # The following settings are NECESSARY for the Prologue theme to run:
-remote_theme: chrisbobbe/jekyll-theme-prologue
-collections: [sections]
 
 theme: jekyll-theme-minimal
