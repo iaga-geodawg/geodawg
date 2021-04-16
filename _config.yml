@@ -1,4 +1,3 @@
-#theme: jekyll-theme-cayman
 
 title: Geospace Data Assimilation Working Group (GeoDAWG)
 
@@ -7,3 +6,4 @@ collections: [sections]
 email: iaga.geodawg@gmail.com
 baseurl: geodawg
 
+theme: jekyll-theme-cayman
