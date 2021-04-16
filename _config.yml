@@ -3,16 +3,8 @@ title: Geospace Data Assimilation Working Group (GeoDAWG)
 
 email: iaga.geodawg@gmail.com
 baseurl: "/geodawg"
-
-#sidebar:
-#  nav:sidebar-nav
-  
-#sidebar-nav:
-#  - title: "About us"
-#  url: /
-#  - title: "Seminar Series"
-#  url: /
+url: ""
 
 # The following settings are NECESSARY for the Prologue theme to run:
-theme: jekyll-theme-prologue
+remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
