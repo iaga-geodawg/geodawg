@@ -1,3 +1,10 @@
+---
+title: News
+layout: "page"
+icon: fa-calendar-alt
+order: 1
+---
+
 ## GeoDAWG Charter
 
 
