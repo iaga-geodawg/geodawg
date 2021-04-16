@@ -2,7 +2,7 @@
 title: Schedule
 layout: "page"
 icon: fa-calendar-alt
-order: 3
+order: 4
 ---
 
 Seminars are held every Monday at 1200 EDST (1600 UT) unless otherwise stated below.
