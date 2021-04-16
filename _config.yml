@@ -1,7 +1,6 @@
 
 title: Geospace Data Assimilation Working Group (GeoDAWG)
 
-remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
 email: iaga.geodawg@gmail.com
 baseurl: geodawg
@@ -16,3 +15,4 @@ sidebar-nav:
   url: /
 
 #theme: jekyll-theme-cayman
+remote_theme: chrisbobbe/jekyll-theme-prologue
