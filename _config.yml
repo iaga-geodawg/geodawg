@@ -1,7 +1,6 @@
 
 title: Geospace Data Assimilation Working Group (GeoDAWG)
 
-remote_theme: chrisbobbe/jekyll-theme-prologue
 email: iaga.geodawg@gmail.com
 baseurl: geodawg/
 
@@ -14,4 +13,6 @@ baseurl: geodawg/
 #  - title: "Seminar Series"
 #  url: /
 
-#theme: jekyll-theme-cayman
+# The following settings are NECESSARY for the Prologue theme to run:
+theme: jekyll-theme-prologue
+collections: [sections]
