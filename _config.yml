@@ -9,10 +9,10 @@ sidebar:
   nav:sidebar-nav
   
 sidebar-nav:
-  - title: "About us"
-  url: /
-  - title: "Seminar Series"
-  url: /
+#  - title: "About us"
+#  url: /
+#  - title: "Seminar Series"
+#  url: /
 
 #theme: jekyll-theme-cayman
 remote_theme: chrisbobbe/jekyll-theme-prologue
