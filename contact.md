@@ -2,7 +2,7 @@
 layout: home
 title: Contact us
 icon: fa-home
-order: 4
+order: 5
 ---
 
 Add contact form here
