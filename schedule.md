@@ -9,9 +9,9 @@ Should be a "suggest a speaker" button/form here, too.
 
 Seminars are held every XXX at XXX EDST (XXX UT) unless otherwise stated below.
 
-#Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>. 
+Schedule by year: <a href="#2021">2021</a>, <a href="#2020">2020</a>. 
 
-#<h2><a id="2021">2021</a></h2>
+<h2><a id="2021">2021</a></h2>
 
 
 | Date |Speaker | Title/Topic | Institution |
