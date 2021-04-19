@@ -1,10 +1,10 @@
 ---
-layout: home
+layout: page
 title: GeoDAWG Charter
 icon: fa-home
 order: 2
 ---
-Motivation and Background
+# Motivation and Background
 
 Geospace, extending from Earth’s upper atmosphere to the magnetopause and bow shock to encompass Earth’s entire magnetosphere, is a large interconnected, nonlinear, dynamic system. Dynamics in this region are controlled by external forcing from the Sun and solar wind, as well as forcing from below from lower regions in Earth’s atmosphere. Physical regimes range from magnetohydrodynamics (MHD) to ion-neutral coupling to electron-scale kinetic physics. The disparate regimes are connected via waves, flows, and currents, and couple and feedback upon each other to produce a complex array of interactions occurring at multiple scales, often simultaneously.
 
