@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: page
 title: Contact us
-icon: fa-home
+icon: fa-envelope-open-text
 order: 5
 ---
 
