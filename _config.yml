@@ -66,6 +66,6 @@ seminar: Our Next Seminar is Monday April 19
 # Google Analytics Tracking ID goes here:
 
 # The following settings are NECESSARY for the Prologue theme to run:
-#remote_theme: chrisbobbe/jekyll-theme-prologue
-remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: chrisbobbe/jekyll-theme-prologue
+#remote_theme: cotes2020/jekyll-theme-chirpy
 collections: [sections]
