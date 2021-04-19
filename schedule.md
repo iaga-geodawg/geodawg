@@ -1,5 +1,5 @@
 ---
-title: Schedule
+title: Seminar Schedule
 layout: "page"
 icon: fa-calendar-alt
 order: 4
