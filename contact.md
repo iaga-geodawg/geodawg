@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact us
-icon: fa-envelope-open-text
+icon: fa-envelope
 order: 5
 ---
 
