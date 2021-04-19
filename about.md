@@ -5,10 +5,7 @@ icon: fa-home
 order: 2
 ---
 
-
-## GeoDAWG Charter
-
-### Motivation and Background
+Motivation and Background
 
 Geospace, extending from Earth’s upper atmosphere to the magnetopause and bow shock to encompass Earth’s entire magnetosphere, is a large interconnected, nonlinear, dynamic system. Dynamics in this region are controlled by external forcing from the Sun and solar wind, as well as forcing from below from lower regions in Earth’s atmosphere. Physical regimes range from magnetohydrodynamics (MHD) to ion-neutral coupling to electron-scale kinetic physics. The disparate regimes are connected via waves, flows, and currents, and couple and feedback upon each other to produce a complex array of interactions occurring at multiple scales, often simultaneously.
 
@@ -18,7 +15,7 @@ Such large, interconnected systems require simultaneous, multipoint measurements
 
 As our numerical models continue to advance, and constellations become a reality, there is a need to develop models that can incorporate multipoint measurements across all of Geospace. Data assimilative modeling, in which in situ and/or remote observations are used to actively constrain or guide the numerical solutions, are used with great success in disciplines with large numbers of measurements, such as terrestrial weather forecasting. However, even with large constellations, coverage throughout Geospace will remain sparse and/or unevenly sampled. This, together with non-local, collective interactions of plasmas and neutrals in Geospace, make data assimilative modeling particularly challenging. Yet, if we are to reap the benefits of our advanced numerical models and the breadth of data our community is producing, it is important to bring Data Assimilation (DA) capability to wide swaths of our community, and more tightly link data and modeling than has been traditionally done in the past.
 
-### Mission
+Mission
 
 Recognizing that data assimilative modeling using sparse measurements is an issue from the mesosphere throughout the magnetosphere, the working group is joint between Divisions II and III.
 
@@ -36,11 +33,11 @@ Membership
 
 Although this is a Division II+III working group, membership is open to any scientist interested in data assimilative modeling in Geospace.
 
-### Leadership structure
+Leadership structure
 
 The working group is chaired by 1 chair and at least 1 co-chair, with at least 1 representative each from Division II and III. Leadership may be expanded as the group grows.
 
-### Approach
+Approach
 
 The approach of this working group is likely to evolve over time, with input from its members. To start, the WG’s approach is to:
 
@@ -50,7 +47,7 @@ Plan and hold regular in-person workshops to exchange data assimilation techniqu
 
 Distribute a regular email newsletter to share research highlights and information relevant to the community, as well as to keep members of the group engaged
 
-### Organizers
+Organizers
 
 Chair
 
